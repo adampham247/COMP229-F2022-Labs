@@ -1,0 +1,14 @@
+{
+  "name": "COMP229-week2",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adam",
+  "license": "ISC",
+  "dependencies": {
+    "mime-types": "^2.1.35"
+  }
+}
